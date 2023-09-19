@@ -2,7 +2,7 @@ body {
     
     margin: 0;
     padding: 0;
-    
+  
 }
 
 .navbar {
@@ -37,7 +37,7 @@ nav a {
 
 .title {
      
-    position: fixed;
+    position: static;
     background-color: rgba(0, 0, 0, .5);
     border-radius: 5px;
     color: antiquewhite;
@@ -45,12 +45,22 @@ nav a {
 
 .titleHome {
     
-    position: fixed;
+    position: static;
     background: rgba(0, 0, 0, .5);
     border-radius: 20px;
     color: antiquewhite;
+    
+}
+.title-principal {
+
+  position: static;
+  background: rgba(0, 0, 0, .5);
+  border-radius: 5px;
+  color: antiquewhite;
+
 
 }
+
 .hero-page{
     background: linear-gradient(to bottom, rgb(0 0 0 / .5), rgb(0 0 0 / .5)), url(img/restaurante-page-bg.jpg) center;
     background-size: cover;
