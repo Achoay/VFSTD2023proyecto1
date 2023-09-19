@@ -4,7 +4,7 @@
 <p aliign="center">Proyecto 1 - Carta Restaurante Digital - Semana 1</p>
 ​
 <br>
-Desarrollado como parte del Bootcamp de Full Stack Developer de Geekshubs Academy.</p>
+<p>Desarrollado como parte del Bootcamp de Full Stack Developer de Geekshubs Academy.</p>
 ​
 
 ​
@@ -17,14 +17,13 @@ Desarrollado como parte del Bootcamp de Full Stack Developer de Geekshubs Academ
 ​
 ### Tabla de contenidos
 
- [💁 Descripcion del proyecto] (#Descripcion)
- [🔍 Observaciones] (#Observaciones)
- [📑 Copryght] (#CopYright)
+ -[💁 Descripcion del proyecto] (#Descripcion)
+ -[📑 Copryght] (#CopYright)
 
 
 ### Descripcion
 
-Para hacere este  proyecto evalue varias opciones,teniendo en cuenta su complejiada tecnica.Al finl opte por diseñar una pagina sencilla con un buen aspecto visual.La pagina es responsive, aunque algunas imagenes de fondo permanecen estaticas dificultando su visionado.La carta tiene un diseño poco atractivo y la imagenes no estan alineadas.
+Para hacere este  proyecto evalue varias opciones,teniendo en cuenta su complejiada tecnica.Al finl opte por diseñar una pagina sencilla con un buen aspecto visual.La pagina es responsive, aunque algunas imagenes de fondo permanecen estaticas dificultando su visionado.La carta tiene un diseño poco atractivo y la imagenes de la carta no estan alineadas.
 Este proyecto se centra en la utilizacion de Html,CSS Y Bootstrap para un diseño responsive y adaptativo a cualquier resolucion de pantalla.
 El proyecto consta de 3 paginas indexadas:
 
@@ -35,12 +34,6 @@ para reservas y comentarios.
 
 
 <img src="/imagenes/Captura 1 2023-09-18 203100.png"></img>
-
-
-### Observaciones
-
-
-
 
 
 ### Copyright
